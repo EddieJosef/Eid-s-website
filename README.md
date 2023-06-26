@@ -1,4 +1,4 @@
-#[Portfolio/CV Website](https://eddiejosef.github.io/Eid-s-website/)
+[#Portfolio/CV Website](https://eddiejosef.github.io/Eid-s-website/)
 
 This repository contains the code for my Portfolio/CV website, which serves as a showcase of my skills in web development. The website provides information about my background, skills, and projects. You can access the live version of the website [here](https://eddiejosef.github.io/Eid-s-website/).
 
