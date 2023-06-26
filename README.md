@@ -41,10 +41,3 @@ Feel free to explore the website and learn more about my skills and projects.
 
 If you would like to get in touch with me, please feel free to reach out via email at [edjosef96@gmail.com](mailto:edjosef96@gmail.com).
 
-## License
-
-This project is solely for demonstration purposes and does not have a specific license.
-
-## Acknowledgements
-
-I would like to acknowledge the use of the Bootstrap framework and Font Awesome icons in the development of this Portfolio/CV website.
